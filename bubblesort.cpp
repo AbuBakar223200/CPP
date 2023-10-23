@@ -4,6 +4,7 @@ using namespace std;
 int main() {
     int n;
     cout << "Enter the number of elements: ";
+    cout << "Enter the number of elements: ";
     cin >> n;
 
     int arr[n];
